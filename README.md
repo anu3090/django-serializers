@@ -1,3 +1,5 @@
+**NO LONGER MAINTAINED**
+
 # Django Serializers
 
 **Customizable Serialization for Django.**
